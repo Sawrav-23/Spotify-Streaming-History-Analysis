@@ -44,18 +44,5 @@ This project provides a comprehensive analysis of Spotify streaming history data
 - The open-source community for sharing valuable resources and tutorials related to data analysis and visualization.
 
 ## Insights
-![Word cloud of top 100 songs](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/e195d24d-dbbb-4e76-bee7-f2cf02e6e09a)
-![Word cloud of top 100 artists](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/bbd7a211-3732-42a1-832c-e8ae2255ac32)
-![weekend vs weekdays](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/4926afab-950f-46f4-96bb-cf5c4b1a4878)
-![Unique songs](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/39530e10-dcb2-4c8f-8c35-bef661e87111)
-![unique artists](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/a1ed5867-d5c0-463d-b9b2-6dcf5e437fd2)
-![Top 10 fav songs](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/48aba4fb-208d-4dd5-a61c-fef1a21ab8f1)
-![Top 10 fav artists based on counts](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/d7a1b929-330b-4b05-8def-edbce152f881)
-![Top 10 fav artist based on hours](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/f64cba1e-9502-43ce-8638-f59550fb0b17)
-![max number of songs played in a day](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/e9ff51f1-fef1-471c-8fae-abe88d47fe84)
-![Heatmap of spotify usage](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/fbb25498-6d3b-4517-a98b-9de018beaa4c)
-![Day wise spotify usage](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/07baa66c-4a0b-4904-8a63-c317b9a3efee)
-![Average spotify usage over week](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/1e87a08e-35f3-4c37-b4c3-4e8600ac0516)
-![Average spotify usage over the years](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/afadd6e9-2964-4c01-8fc9-4658fdddc89d)
-![Average distribution of streaming](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/1d8a04ef-b949-449e-b10a-784cc02aba18)
+![Screenshot 2023-11-20 114414](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/5afe5a3e-1d72-4aca-b4f2-1b7a9b03c6f2)
 
