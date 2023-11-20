@@ -29,6 +29,10 @@ The data used for this analysis was obtained from the Spotify streaming history 
 - `graph`: This folder contains the visualizations generated during the analysis, including charts, graphs, and plots.
 - `README.md`: The main readme file for this project.
 
+## Insights
+![Screenshot 2023-11-20 114414](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/82719e15-7275-4938-a69f-38308a0d2002)
+
+
 
 ## Conclusion
 This project provides a comprehensive analysis of Spotify streaming history data, uncovering valuable insights into listening habits, preferences, and trends. By analyzing the data and visualizing the results, we gain a better understanding of the user's music choices and patterns, which can be useful for personalization, recommendation systems, and further research in the field of music analysis.
@@ -43,6 +47,6 @@ This project provides a comprehensive analysis of Spotify streaming history data
 - The Pandas, Matplotlib, and Seaborn libraries for enabling data analysis and visualization in Python.
 - The open-source community for sharing valuable resources and tutorials related to data analysis and visualization.
 
-## Insights
-![Screenshot 2023-11-20 114414](https://github.com/Sawrav-23/Spotify-Streaming-History-Analysis/assets/144011738/5afe5a3e-1d72-4aca-b4f2-1b7a9b03c6f2)
+
+
 
